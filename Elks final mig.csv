@@ -1,24 +1,29 @@
-﻿Final Migration (Active) (Other Residence):,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Final Migration (Active) (Other Residence):,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Residential (Clients) > Residential (Clients) (FC/RES)
 Region(s)/Division(s): Georgia/Dalton, Metro Atlanta, Savannah, Valdosta
 Home Program(s): Residential
 Primary Case Wkr Role: Family Consultant
 Primary Home Wkr Role: Family Consultant
+(Provider Type: Other Residence; Placement Type: Residential; Funding Org: TBD; RateSheet: TBD; Category: CCI,ILP, TLP; Location: Dalton, Metro Atlanta, Savannah, Valdosta)"
+Region(s)/Division(s): Georgia/Dalton, Metro Atlanta, Savannah, Valdosta
+Home Program(s): Residential,,,,,251,1
+Primary Case Wkr Role: Family Consultant
+Primary Home Wkr Role: Family Consultant
 (Provider Type: Other Residence; Placement Type: Residential; Funding Org: TBD; RateSheet: TBD; Category: CCI,ILP, TLP; Location: Dalton, Metro Atlanta, Savannah, Valdosta)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,# Expected,,Kicked Off At,Total,Updated,New,Skipped,Took,,,,,,,,,,,,,,,,,,,,,,,,,,
-Staff,251,F_THERAPIST,2/8/2023 8:20,252,251,1,0,1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
+,# Expected,,Kicked Off At,Total,Updated,14,Skipped,Took,,,,,,,,,,,,,,,,,,,,,,,,,,
+Staff,251,F_THERAPIST,2/8/2023 8:20,252,323,0,0,1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
 Staff Signatures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,(Times in CST),,,,,1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,# Expected,,Kicked Off At,Total,Updated,New,Skipped,Took,,,,,,,,,,,,,,,,,,,,,,,,,,
-Clients,"578 Active + 
+Clients,"578 Active + ,,,,,11,0
   20 Pending +
-1,796 Denied Referrals",F_CLIENT,2/8/2023 8:21,"4,505","4,491",14,0,75 minutes,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,796 Denied Referrals",F_CLIENT,2/8/2023 8:21,"4,505","4,491",46,0,75 minutes,,,,,,,,,,,,,,,,,,,,,,,,,,
 Assign Staff > Clients,323,F_CLIENT,2/8/2023 9:56,421,323,0,98,23 minutes,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,98 minutes,,,,,,,,,,,,,,,,,,,,,,,,,,
 HOMES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,# Expected,,Kicked Off At,Total,Updated,New,Skipped,Took,,,,,,,,,,,,,,,,,,,,,,,,,,
+,# Expected,,Kicked Off At,Total,Updated,0,Skipped,Took,,,,,,,,,,,,,,,,,,,,,,,,,,
 Homes (Other Residence/Residential),12,F_PROVIDER,2/8/2023 10:43,11,11,0,0,<1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
-Assign Staff > Homes (Other Residence/Residential),3,F_PROVIDER,2/8/2023 10:43,421,,,,,??,,,,,,,,,,,,,,,,,,,,,,,,,
+Assign Staff > Homes (Other Residence/Residential),3,F_PROVIDER,2/8/2023 10:43,421,0,0,,,??,,,,,,,,,,,,,,,,,,,,,,,,,
 Assign Staff > Homes (Other Residence/Residential),3,F_PROVIDER,2/8/2023 11:45,421,46,0,375,1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,Last Message from Console:,,"[26A8:0011-1B44] 02/08/2023 12:46:32 PM  HTTP Server: Agent message: F_PROVIDER - Syncing 46 of 421, Updated: 46, New: 0, Skipped: 290",,,,,,,,,,,,,,,,,,,,,,,,,
 OTHER MIGRATIONS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -28,7 +33,11 @@ Medications,"1,758",F_MEDICATION,2/8/2023 13:04,"1,768","1,763",0,5,9 minutes,,,
 Goals,0,F_GOAL,2/8/2023 13:14,0,0,0,0,<1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
 ICD,307,F_CLIENT,2/8/2023 13:15,311,307,0,4,14 minutes,,,,,,,,,,,,,,,,,,,,,,,,,,
 Case People,560,F_RELATIONSHIP,2/8/2023 13:30,567,561,0,6,4 minutes,,,,,,,,,,,,,,,,,,,,,,,,,,
-Home People (Other Residence/Residential),0,F_HOUSEMEMBER,2/8/2023 13:34,269,54,0,215,1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
+"*Therapeutic Foster Care, **Respite (Clients) > Therapeutic Foster Care (FC/RES)
+Region(s)/Division(s): Georgia/Dalton, Metro Atlanta, Savannah, Valdosta
+Home Program(s): *Foster Care / **TFC, Respite (??)
+Primary Case Wkr Role: Family Consultant
+(Provider Type: Household; Placement Type: *Foster Home, **Respite Provider; Funding Org: TBD; RateSheet: TBD; Category: XXX; Location: Dalton, Metro Atlanta, Savannah, Valdosta)",0,F_HOUSEMEMBER,2/8/2023 13:34,269,54,0,215,1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
 Caregiver Training (Other Residence/Residential),0,F_HOME_ACTIVITY,2/8/2023 13:36,6,6,0,0,<1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
 Staff Training,0,F_THERAPIST_TRAINING,2/8/2023 13:37,6,0,0,6,<1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
 Professionals to Addess Book,59,F_CONTACT,2/8/2023 13:38,59,59,0,0,<1 minute,,,,,,,,,,,,,,,,,,,,,,,,,,
