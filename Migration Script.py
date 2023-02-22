@@ -1,8 +1,8 @@
 import csv, pandas as pd
 
 #Enter file and agency name here
-input_file = 'Elks final mig.csv'
-agency = 'Elks'
+input_file = 'CSKF Final.csv'
+agency = 'CSKF'
 
 
 #Function cleans up 'Took' column so that all values can be read as ints
@@ -17,7 +17,9 @@ def formatTime(value) -> int:
 def appendRow(agency, date, system, category, document, total, new, 
               updated, migrated, skipped, time, speed):
     
-    with open("Migration Data.csv", "a") as all_data:
+    # with open("Migration Data.csv", "a") as all_data:
+    #     writer = csv.writer(all_data)
+    with open("tester.csv", "a") as all_data:
         writer = csv.writer(all_data)
 
         writer.writerow([agency, date, system, category, document, total, new, 
@@ -28,21 +30,20 @@ def appendRow(agency, date, system, category, document, total, new,
 #The date remains the same for the entire migration, so no need to record it for every row
 def findDate(reader) -> str:
     for row in reader:
-        date = row[3]
-        if date.__contains__('/'):
-            date = date.split()[0]
-            return date
+        if len(row) > 2:
+            date = row[3]
+            if date.__contains__('/'):
+                return date.split()[0]
         
 
 
 #Main
 with open(input_file, 'r') as input:
     reader = csv.reader(input)
-
-    system = ''
+    date = findDate(reader)
+    system = str
 
     for row in reader:
-        date = findDate(reader)
         print(row)
         document = row[2]
 
@@ -53,7 +54,7 @@ with open(input_file, 'r') as input:
         # print(isFC)
 
         #Checks to see whether row contains data
-        if (document != '') & (row[5] != ''):
+        if (document != '') & (row[5].isdigit()):
             category = row[0]
             total = row[4]
 
@@ -70,5 +71,7 @@ with open(input_file, 'r') as input:
             time = formatTime(row[8])
             speed = float(migrated) / float(time)
 
-            # appendRow(agency, date, system, category, document, total, new,
-            #           updated, migrated, skipped, time, speed)
+            # print(agency, date, system, category, document, total, new,
+            #            updated, migrated, skipped, time, speed)
+            appendRow(agency, date, system, category, document, total, new,
+                      updated, migrated, skipped, time, speed)
