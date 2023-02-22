@@ -2,7 +2,7 @@ import csv, pandas as pd
 
 #Enter file and agency name here
 input_file = 'CSKF Final.csv'
-agency = 'CSKF'
+agency = 'Creative Solutions for Kids & Families'
 
 
 #Function cleans up 'Took' column so that all values can be read as ints
@@ -13,65 +13,61 @@ def formatTime(value) -> int:
     return value.replace("minutes", "").replace("minute", "").strip()
 
 
+#Function calculates updated, new and migrated values, accounting for commas
+def calculate(updated, new) -> tuple[int, int, int]:
+
+    if updated.__contains__(','):
+        updated = int(row[5].strip().replace(',', ''))
+    else: updated = int(row[5])
+            
+    if new.__contains__(','):
+        new = int(row[6].strip().replace(',', ''))
+    else: new = int(row[6])
+
+    migrated = updated + new
+    return updated, new, migrated
+
+
 #Function appends a given row to the main data file
 def appendRow(agency, date, system, category, document, total, new, 
               updated, migrated, skipped, time, speed):
     
     # with open("Migration Data.csv", "a") as all_data:
     #     writer = csv.writer(all_data)
-    with open("tester.csv", "a") as all_data:
+    with open("Migration Data.csv", "a", newline='') as all_data:
         writer = csv.writer(all_data)
-
         writer.writerow([agency, date, system, category, document, total, new, 
                          updated, migrated, skipped, time, speed])
-        
-
-#Function pulls the date of the migration out of the spreadsheet
-#The date remains the same for the entire migration, so no need to record it for every row
-def findDate(reader) -> str:
-    for row in reader:
-        if len(row) > 2:
-            date = row[3]
-            if date.__contains__('/'):
-                return date.split()[0]
         
 
 
 #Main
 with open(input_file, 'r') as input:
     reader = csv.reader(input)
-    date = findDate(reader)
-    system = str
+    date = ''
 
     for row in reader:
-        print(row)
-        document = row[2]
+        #There's only one date for an entire migration, so the code first checks
+        #whether the date was already found. If not, it keeps checking each row 
+        #until it finds the date
+        if date == '':
+            if row[3].__contains__('/') | row[3].__contains__('-'):
+                date = row[3].split()[0]
 
         #Constantly checks for header box that contains all of the migration info,
         #looks for 'FC' and 'GCM' keywords within that box
-        if row[0].lower().__contains__('(fc/res)'): system = 'FC'
+        if row[0].lower().__contains__('(fc'): system = 'FC'
         elif row[0].lower().__contains__('gcm'): system = 'GCM'
-        # print(isFC)
 
-        #Checks to see whether row contains data
-        if (document != '') & (row[5].isdigit()):
+        #Checks to see whether row contains data first, then runs transfer code
+        if (row[2] != '') & (row[8].__contains__('minute') | row[8].strip().isdigit()):
+            document = row[2]
             category = row[0]
             total = row[4]
-
-            if row[5].__contains__(','):
-                updated = int(row[5].strip().replace(',', ''))
-            else: updated = int(row[5])
-            
-            if row[6].__contains__(','):
-                new = int(row[6].strip().replace(',', ''))
-            else: new = int(row[6])
-            
-            migrated = updated + new
+            updated, new, migrated = calculate(row[5], row[6])
             skipped = row[7]
             time = formatTime(row[8])
             speed = float(migrated) / float(time)
 
-            # print(agency, date, system, category, document, total, new,
-            #            updated, migrated, skipped, time, speed)
             appendRow(agency, date, system, category, document, total, new,
                       updated, migrated, skipped, time, speed)

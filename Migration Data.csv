@@ -336,3 +336,21 @@ Whites (Clinical Services),12/30/2021,GCM,Medications,F_MEDICATION,"5,001","3,32
 Whites (Clinical Services),12/30/2021,GCM,Goals,F_GOAL,"7,910",0,"4,868","4,868","3,042",11,442.5
 Whites (Clinical Services),12/30/2021,GCM,ICD,F_CLIENT,"1,149",0,"1,095","1,095",54,11,99.5
 Whites (Clinical Services),12/30/2021,GCM,Case People,F_RELATIONSHIP,"7,648",0,"4,463","4,463","3,185",8,557.9
+Creative Solutions for Kids & Families,2/21/2023,FC,Clients,F_CLIENT,"1,648",3,1645,1648,0,89,18.51685393258427
+Creative Solutions for Kids & Families,2/21/2023,FC,Assign Staff > Clients,F_CLIENT,"2,551",0,1590,1590,961,105,15.142857142857142
+Creative Solutions for Kids & Families,2/21/2023,FC,Homes,F_PROVIDER,135,0,135,135,0,1,135.0
+Creative Solutions for Kids & Families,2/21/2023,FC,Assign Staff > Homes,F_PROVIDER,"2,551",0,194,194,"2,357",3,64.66666666666667
+Creative Solutions for Kids & Families,2/21/2023,FC,Placements,F_PLACEMENT,"2,309",0,1513,1513,796,42,36.023809523809526
+Creative Solutions for Kids & Families,2/21/2023,FC,Medications,F_MEDICATION,"17,140",0,17138,17138,2,63,272.031746031746
+Creative Solutions for Kids & Families,2/21/2023,FC,Goals,F_GOAL,971,0,808,808,163,3,269.3333333333333
+Creative Solutions for Kids & Families,2/21/2023,FC,ICD,F_CLIENT,114,0,114,114,0,6,19.0
+Creative Solutions for Kids & Families,2/21/2023,FC,Case People,F_RELATIONSHIP,"5,389",0,4700,4700,689,12,391.6666666666667
+Creative Solutions for Kids & Families,2/21/2023,FC,Home People,F_HOUSEMEMBER,920,0,399,399,521,1,399.0
+Creative Solutions for Kids & Families,2/21/2023,FC,Staff Training,F_THERAPIST_TRAINING,163,0,156,156,7,0.5,312.0
+Creative Solutions for Kids & Families,2/21/2023,FC,Professionals to Addess Book,F_CONTACT,"1,932",0,1932,1932,0,5,386.4
+Creative Solutions for Kids & Families,2/21/2023,GCM,Clients,F_CLIENT,454,3,451,454,0,4,113.5
+Creative Solutions for Kids & Families,2/21/2023,GCM,Assign Staff > Clients,F_CLIENT,506,0,412,412,94,8,51.5
+Creative Solutions for Kids & Families,2/21/2023,GCM,Medications,F_MEDICATION,"17,140",0,4868,4868,"12,272",13,374.46153846153845
+Creative Solutions for Kids & Families,2/21/2023,GCM,Goals,F_CASEGOAL,971,0,962,962,9,3,320.6666666666667
+Creative Solutions for Kids & Families,2/21/2023,GCM,ICD,F_CLIENT,114,0,92,92,22,1,92.0
+Creative Solutions for Kids & Families,2/21/2023,GCM,Case People,F_RELATIONSHIP,"5,389",0,1756,1756,"3,633",3,585.3333333333334
