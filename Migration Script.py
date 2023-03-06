@@ -48,7 +48,11 @@ def appendRow(agency, date, system, category, document, total, new,
 '''Main function'''
 with open(input_file, 'r') as input:
     reader = csv.reader(input)
+
+    #Date should be a static value, so it's defined outside of the scope of loops
     date = ''
+    #script tracks how many rows are appended for quality assurance
+    newRowsCount = 0
 
     for row in reader:
         #There's only one date for an entire migration, so the code first checks
@@ -79,3 +83,9 @@ with open(input_file, 'r') as input:
             #writing function externalized to avoid quadruple nesting
             appendRow(agency, date, system, category, document, total, new,
                       updated, migrated, skipped, time, speed)
+            
+            newRowsCount += 1
+            
+
+
+    print('Appended', newRowsCount, 'rows to data file.')
