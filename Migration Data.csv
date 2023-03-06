@@ -1,341 +1,341 @@
-﻿Agency,Date Migrated,System,Category,Document,Total,New,Updated,Migrated,Skipped,Time in minutes,Items/minute
-Big Oak Ranch (Household),9-Feb,FC,Staff,F_THERAPIST,151,0,151,151,0,1,151
-Big Oak Ranch (Household),9-Feb,FC,Clients,F_CLIENT,"1,959",11,"1,948","1,959",0,34,68.3
-Big Oak Ranch (Household),9-Feb,FC,Assign Staff > Clients,F_CLIENT,754,0,708,708,46,22,32.2
-Big Oak Ranch (Household),9-Feb,FC,Homes,F_PROVIDER,352,0,352,352,0,6,58.7
-Big Oak Ranch (Household),9-Feb,FC,Placements,F_PLACEMENT,571,0,403,403,168,11,36.6
-Big Oak Ranch (Household),9-Feb,FC,Medications,F_MEDICATION,"1,211",0,"1,184","1,184",27,5,236.8
-Big Oak Ranch (Household),9-Feb,FC,ICD,F_CLIENT,151,0,150,150,1,6,25
-Big Oak Ranch (Household),9-Feb,FC,Case People,F_RELATIONSHIP,"1,160",0,995,995,165,3,331.7
-Big Oak Ranch (Household),9-Feb,FC,Home People,F_HOUSEMEMBER,52,0,50,50,2,1,50
-Big Oak Ranch (Household),9-Feb,FC,Staff Training,F_THERAPIST_TRAINING,"1,836",0,"1,713","1,713",123,4,428.3
+Agency,Date Migrated,System,Category,Document,Total,New,Updated,Migrated,Skipped,Time in minutes,Items/minute
+Big Oak Ranch (Household),9-Feb,FC,Staff,F_THERAPIST,151,0,151,151,0,1.0,151
+Big Oak Ranch (Household),9-Feb,FC,Clients,F_CLIENT,"1,959",11,"1,948","1,959",0,34.0,68.3
+Big Oak Ranch (Household),9-Feb,FC,Assign Staff > Clients,F_CLIENT,754,0,708,708,46,22.0,32.2
+Big Oak Ranch (Household),9-Feb,FC,Homes,F_PROVIDER,352,0,352,352,0,6.0,58.7
+Big Oak Ranch (Household),9-Feb,FC,Placements,F_PLACEMENT,571,0,403,403,168,11.0,36.6
+Big Oak Ranch (Household),9-Feb,FC,Medications,F_MEDICATION,"1,211",0,"1,184","1,184",27,5.0,236.8
+Big Oak Ranch (Household),9-Feb,FC,ICD,F_CLIENT,151,0,150,150,1,6.0,25
+Big Oak Ranch (Household),9-Feb,FC,Case People,F_RELATIONSHIP,"1,160",0,995,995,165,3.0,331.7
+Big Oak Ranch (Household),9-Feb,FC,Home People,F_HOUSEMEMBER,52,0,50,50,2,1.0,50
+Big Oak Ranch (Household),9-Feb,FC,Staff Training,F_THERAPIST_TRAINING,"1,836",0,"1,713","1,713",123,4.0,428.3
 Big Oak Ranch (Household),9-Feb,FC,Professionals to Add…,F_CONTACT,68,0,68,68,0,0.5,136
-Big Oak Ranch (Other Residence),9-Feb,FC,Clients,F_CLIENT,23,0,23,23,0,1,23
-Big Oak Ranch (Other Residence),9-Feb,FC,Assign Staff > Clients,F_CLIENT,754,0,708,708,46,24,29.5
-Big Oak Ranch (Other Residence),9-Feb,FC,Homes,F_PROVIDER,176,0,176,176,0,2,88
-Big Oak Ranch (Other Residence),9-Feb,FC,Placements,F_PLACEMENT,571,0,403,403,168,12,33.6
-Big Oak Ranch (Other Residence),9-Feb,FC,Medications,F_MEDICATION,"1,211",0,"1,184","1,184",27,5,236.8
-Big Oak Ranch (Other Residence),9-Feb,FC,ICD,F_CLIENT,151,0,150,150,1,6,25
-Big Oak Ranch (Other Residence),9-Feb,FC,Case People,F_RELATIONSHIP,"1,160",0,995,995,165,4,248.8
-Big Oak Ranch (Other Residence),9-Feb,FC,Home People,F_HOUSEMEMBER,52,0,50,50,2,1,50
-Big Oak Ranch (Other Residence),9-Feb,FC,Staff Training,F_THERAPIST_TRAINING,"1,836",0,"1,713","1,713",123,5,342.6
+Big Oak Ranch (Other Residence),9-Feb,FC,Clients,F_CLIENT,23,0,23,23,0,1.0,23
+Big Oak Ranch (Other Residence),9-Feb,FC,Assign Staff > Clients,F_CLIENT,754,0,708,708,46,24.0,29.5
+Big Oak Ranch (Other Residence),9-Feb,FC,Homes,F_PROVIDER,176,0,176,176,0,2.0,88
+Big Oak Ranch (Other Residence),9-Feb,FC,Placements,F_PLACEMENT,571,0,403,403,168,12.0,33.6
+Big Oak Ranch (Other Residence),9-Feb,FC,Medications,F_MEDICATION,"1,211",0,"1,184","1,184",27,5.0,236.8
+Big Oak Ranch (Other Residence),9-Feb,FC,ICD,F_CLIENT,151,0,150,150,1,6.0,25
+Big Oak Ranch (Other Residence),9-Feb,FC,Case People,F_RELATIONSHIP,"1,160",0,995,995,165,4.0,248.8
+Big Oak Ranch (Other Residence),9-Feb,FC,Home People,F_HOUSEMEMBER,52,0,50,50,2,1.0,50
+Big Oak Ranch (Other Residence),9-Feb,FC,Staff Training,F_THERAPIST_TRAINING,"1,836",0,"1,713","1,713",123,5.0,342.6
 Big Oak Ranch (Other Residence),9-Feb,FC,Professionals to Add…,F_CONTACT,68,0,68,68,0,0.5,136
-Palmer Home (Household),1/11/2023,FC,Clients,F_CLIENT,429,0,429,429,0,20,21.5
-Palmer Home (Household),1/11/2023,FC,Assign Staff > Clients,F_CLIENT,104,0,104,104,0,3,34.7
-Palmer Home (Household),1/11/2023,FC,Homes,F_PROVIDER,131,0,131,131,0,2,65.5
-Palmer Home (Household),1/11/2023,FC,Placements,F_PLACEMENT,"1,681",0,"1,603","1,603",78,50,32.1
-Palmer Home (Household),1/11/2023,FC,Medications,F_MEDICATION,428,0,425,425,3,2,212.5
-Palmer Home (Household),1/11/2023,FC,Goals,F_GOAL,389,0,381,381,8,2,190.5
+Palmer Home (Household),1/11/2023,FC,Clients,F_CLIENT,429,0,429,429,0,20.0,21.5
+Palmer Home (Household),1/11/2023,FC,Assign Staff > Clients,F_CLIENT,104,0,104,104,0,3.0,34.7
+Palmer Home (Household),1/11/2023,FC,Homes,F_PROVIDER,131,0,131,131,0,2.0,65.5
+Palmer Home (Household),1/11/2023,FC,Placements,F_PLACEMENT,"1,681",0,"1,603","1,603",78,50.0,32.1
+Palmer Home (Household),1/11/2023,FC,Medications,F_MEDICATION,428,0,425,425,3,2.0,212.5
+Palmer Home (Household),1/11/2023,FC,Goals,F_GOAL,389,0,381,381,8,2.0,190.5
 Palmer Home (Household),1/11/2023,FC,Case People,F_RELATIONSHIP,449,0,444,444,5,0.5,888
 Palmer Home (Household),1/11/2023,FC,Home People,F_HOUSEMEMBER,30,0,23,23,7,0.5,46
 Palmer Home (Household),1/11/2023,FC,Caregiver Training,F_HOME_ACTIVITY,9,0,0,0,9,0.5,0
 Palmer Home (Household),1/11/2023,FC,Staff Training,F_THERAPIST_TRAINING,9,0,0,0,9,0.5,0
 Palmer Home (Household),1/11/2023,FC,Professionals to Add…,F_CONTACT,17,0,17,17,0,0.5,34
-Palmer Home (Other Residence),1/11/2023,FC,Clients,F_CLIENT,"1,608",8,"1,600","1,608",0,80,28
+Palmer Home (Other Residence),1/11/2023,FC,Clients,F_CLIENT,"1,608",8,"1,600","1,608",0,80.0,28
 Palmer Home (Other Residence),1/11/2023,FC,Assign Staff > Clients,F_CLIENT,104,0,66,66,38,0.5,132
-Palmer Home (Other Residence),1/11/2023,FC,Homes,F_PROVIDER,74,0,74,74,0,1,74
-Palmer Home (Other Residence),1/11/2023,FC,Placements,F_PLACEMENT,"1,681",0,1603,"1,603",78,50,32.1
-Palmer Home (Other Residence),1/11/2023,FC,Medications,F_MEDICATION,428,0,425,425,3,2,212.5
-Palmer Home (Other Residence),1/11/2023,FC,Goals,F_GOAL,389,0,381,381,8,2,190.5
-Palmer Home (Other Residence),1/11/2023,FC,Case People,F_RELATIONSHIP,449,0,444,444,5,2,222
-Palmer Home (Other Residence),1/11/2023,FC,Home People,F_HOUSEMEMBER,30,0,23,23,7,1,23
+Palmer Home (Other Residence),1/11/2023,FC,Homes,F_PROVIDER,74,0,74,74,0,1.0,74
+Palmer Home (Other Residence),1/11/2023,FC,Placements,F_PLACEMENT,"1,681",0,1603,"1,603",78,50.0,32.1
+Palmer Home (Other Residence),1/11/2023,FC,Medications,F_MEDICATION,428,0,425,425,3,2.0,212.5
+Palmer Home (Other Residence),1/11/2023,FC,Goals,F_GOAL,389,0,381,381,8,2.0,190.5
+Palmer Home (Other Residence),1/11/2023,FC,Case People,F_RELATIONSHIP,449,0,444,444,5,2.0,222
+Palmer Home (Other Residence),1/11/2023,FC,Home People,F_HOUSEMEMBER,30,0,23,23,7,1.0,23
 Palmer Home (Other Residence),1/11/2023,FC,Professionals to Add..,F_CONTACT,18,0,18,18,0,0.5,36
-Hope Children's Home,1/18/2023,FC,Clients,F_CLIENT,342,7,335,342,0,14,30.9
-Hope Children's Home,1/18/2023,FC,Assign Staff > Clients,F_CLIENT,619,0,280,280,339,17,16.5
-Hope Children's Home,1/18/2023,FC,Homes,F_PROVIDER,11,0,22,22,-11,1,22
-Hope Children's Home,1/18/2023,FC,Placements,F_PLACEMENT,760,0,311,311,449,9,34.6
-Hope Children's Home,1/18/2023,FC,Medications,F_MEDICATION,563,0,404,404,159,1,404
-Hope Children's Home,1/18/2023,FC,Goals,F_GOAL,133,0,117,117,16,1,117
+Hope Children's Home,1/18/2023,FC,Clients,F_CLIENT,342,7,335,342,0,14.0,30.9
+Hope Children's Home,1/18/2023,FC,Assign Staff > Clients,F_CLIENT,619,0,280,280,339,17.0,16.5
+Hope Children's Home,1/18/2023,FC,Homes,F_PROVIDER,11,0,22,22,-11,1.0,22
+Hope Children's Home,1/18/2023,FC,Placements,F_PLACEMENT,760,0,311,311,449,9.0,34.6
+Hope Children's Home,1/18/2023,FC,Medications,F_MEDICATION,563,0,404,404,159,1.0,404
+Hope Children's Home,1/18/2023,FC,Goals,F_GOAL,133,0,117,117,16,1.0,117
 Hope Children's Home,1/18/2023,FC,Case People,F_RELATIONSHIP,2,0,1,1,1,0.5,2
 Hope Children's Home,1/18/2023,FC,Home People,F_HOUSEMEMBER,4,0,4,4,0,0.5,8
-Hope Children's Home,1/18/2023,FC,Staff Training,F_THERAPIST_TRAINING,"1,169",0,"1,031","1,031",138,4,257.8
+Hope Children's Home,1/18/2023,FC,Staff Training,F_THERAPIST_TRAINING,"1,169",0,"1,031","1,031",138,4.0,257.8
 City of Irvine PD,1/24/2023,GCM,Staff,F_THERAPIST,17,0,17,17,0,0.5,34
-City of Irvine PD,1/24/2023,GCM,Clients,F_CLIENT,"2,583",0,"2,583","2,583",0,24,107.6
-City of Irvine PD,1/24/2023,GCM,Assign Staff > Clients,F_CLIENT,"2,330",0,"2,086","2,086",244,39,53.5
-City of Irvine PD,1/24/2023,GCM,Case People,F_RELATIONSHIP,708,0,639,639,69,4,159.8
+City of Irvine PD,1/24/2023,GCM,Clients,F_CLIENT,"2,583",0,"2,583","2,583",0,24.0,107.6
+City of Irvine PD,1/24/2023,GCM,Assign Staff > Clients,F_CLIENT,"2,330",0,"2,086","2,086",244,39.0,53.5
+City of Irvine PD,1/24/2023,GCM,Case People,F_RELATIONSHIP,708,0,639,639,69,4.0,159.8
 GraceWood (Clients),1/26/2023,FC,Staff,F_THERAPIST,30,0,30,30,0,0.5,60
-GraceWood (Clients),1/26/2023,FC,Clients,F_CLIENT,491,0,491,491,0,18,27.3
+GraceWood (Clients),1/26/2023,FC,Clients,F_CLIENT,491,0,491,491,0,18.0,27.3
 GraceWood (Clients),1/26/2023,FC,Homes,F_PROVIDER,7,0,7,7,0,0.5,14
-GraceWood (Clients),1/26/2023,FC,Placements,F_PLACEMENT,509,0,189,189,320,7,27
-GraceWood (Clients),1/26/2023,FC,Medications,F_MEDICATION,54,0,52,52,2,1,52
+GraceWood (Clients),1/26/2023,FC,Placements,F_PLACEMENT,509,0,189,189,320,7.0,27
+GraceWood (Clients),1/26/2023,FC,Medications,F_MEDICATION,54,0,52,52,2,1.0,52
 GraceWood (Clients),1/26/2023,FC,Goals,F_GOAL,10,0,1,1,9,0.5,2
-GraceWood (Clients),1/26/2023,FC,Case People,F_RELATIONSHIP,99,0,96,96,3,1,96
-GraceWood (Families),1/26/2023,FC,Families,F_CLIENT,263,0,263,263,0,13,20.2
+GraceWood (Clients),1/26/2023,FC,Case People,F_RELATIONSHIP,99,0,96,96,3,1.0,96
+GraceWood (Families),1/26/2023,FC,Families,F_CLIENT,263,0,263,263,0,13.0,20.2
 GraceWood (Families),1/26/2023,FC,Homes,F_PROVIDER,7,0,7,7,0,0.5,14
-GraceWood (Families),1/26/2023,FC,Placements,F_PLACEMENT,268,0,194,194,74,6,32.3
-GraceWood (Families),1/26/2023,FC,Family Case People,F_RELATIONSHIP,423,0,410,410,13,2,205
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Staff,F_THERAPIST,252,1,251,252,0,1,252
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Clients,F_CLIENT,"4,505",14,4491,"4,505",0,75,73.9
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Assign Staff > Clients,F_CLIENT,421,0,323,323,98,23,14
+GraceWood (Families),1/26/2023,FC,Placements,F_PLACEMENT,268,0,194,194,74,6.0,32.3
+GraceWood (Families),1/26/2023,FC,Family Case People,F_RELATIONSHIP,423,0,410,410,13,2.0,205
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Staff,F_THERAPIST,252,1,251,252,0,1.0,252
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Clients,F_CLIENT,"4,505",14,4491,"4,505",0,75.0,73.9
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Assign Staff > Clients,F_CLIENT,421,0,323,323,98,23.0,14
 Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Homes,F_PROVIDER,11,0,11,11,0,0.5,22
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Assign Staff > Homes,F_PROVIDER,421,0,46,46,375,1,46
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Placements,F_PLACEMENT,"2,263",0,"2,237","2,237",26,66,33.9
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Medications,F_MEDICATION,"1,768",0,"1,763","1,763",5,9,195.9
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,ICD,F_CLIENT,311,0,307,307,4,14,21.9
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Case People,F_RELATIONSHIP,567,0,561,561,6,4,140.3
-Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Home People,F_HOUSEMEMBER,269,0,54,54,215,1,54
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Assign Staff > Homes,F_PROVIDER,421,0,46,46,375,1.0,46
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Placements,F_PLACEMENT,"2,263",0,"2,237","2,237",26,66.0,33.9
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Medications,F_MEDICATION,"1,768",0,"1,763","1,763",5,9.0,195.9
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,ICD,F_CLIENT,311,0,307,307,4,14.0,21.9
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Case People,F_RELATIONSHIP,567,0,561,561,6,4.0,140.3
+Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Home People,F_HOUSEMEMBER,269,0,54,54,215,1.0,54
 Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Caregiver Training,F_HOME_ACTIVITY,6,0,6,6,0,0.5,12
 Elks Aidmore (Active) (Other Residence),2/8/2023,FC,Professionals to Add…,F_CONTACT,59,0,59,59,0,0.5,118
-Elks Aidmore (Active) (Household),2/8/2023,FC,Clients,F_CLIENT,"9,709",43,"9,666","9,709",0,165,101.6
-Elks Aidmore (Active) (Household),2/8/2023,FC,Assign Staff > Clients,F_CLIENT,421,0,323,323,98,24,13.5
-Elks Aidmore (Active) (Household),2/8/2023,FC,Homes,F_PROVIDER,310,1,309,310,0,4,78.3
-Elks Aidmore (Active) (Household),2/8/2023,FC,Assign Staff > Homes,F_PROVIDER,421,0,46,46,375,2,23
-Elks Aidmore (Active) (Household),2/8/2023,FC,Placements,F_PLACEMENT,"2,263",0,"2,240","2,240",23,65,34.5
-Elks Aidmore (Active) (Household),2/8/2023,FC,Medications,F_MEDICATION,"1,768",0,"1,763","1,763",5,10,176.3
-Elks Aidmore (Active) (Household),2/8/2023,FC,ICD,F_CLIENT,311,0,307,307,4,15,20.5
-Elks Aidmore (Active) (Household),2/8/2023,FC,Case People,F_RELATIONSHIP,567,0,561,561,6,3,187
-Elks Aidmore (Active) (Household),2/8/2023,FC,Home People,F_HOUSEMEMBER,269,0,54,54,215,1,54
+Elks Aidmore (Active) (Household),2/8/2023,FC,Clients,F_CLIENT,"9,709",43,"9,666","9,709",0,165.0,101.6
+Elks Aidmore (Active) (Household),2/8/2023,FC,Assign Staff > Clients,F_CLIENT,421,0,323,323,98,24.0,13.5
+Elks Aidmore (Active) (Household),2/8/2023,FC,Homes,F_PROVIDER,310,1,309,310,0,4.0,78.3
+Elks Aidmore (Active) (Household),2/8/2023,FC,Assign Staff > Homes,F_PROVIDER,421,0,46,46,375,2.0,23
+Elks Aidmore (Active) (Household),2/8/2023,FC,Placements,F_PLACEMENT,"2,263",0,"2,240","2,240",23,65.0,34.5
+Elks Aidmore (Active) (Household),2/8/2023,FC,Medications,F_MEDICATION,"1,768",0,"1,763","1,763",5,10.0,176.3
+Elks Aidmore (Active) (Household),2/8/2023,FC,ICD,F_CLIENT,311,0,307,307,4,15.0,20.5
+Elks Aidmore (Active) (Household),2/8/2023,FC,Case People,F_RELATIONSHIP,567,0,561,561,6,3.0,187
+Elks Aidmore (Active) (Household),2/8/2023,FC,Home People,F_HOUSEMEMBER,269,0,54,54,215,1.0,54
 Elks Aidmore (Active) (Household),2/8/2023,FC,Caregiver Training,F_HOME_ACTIVITY,6,0,6,6,0,0.5,12
 Elks Aidmore (Active) (Household),2/8/2023,FC,Professionals to Add…,F_CONTACT,59,0,59,59,0,0.5,118
-Elks Aidmore (Inactive),2/8/2023,FC,Staff,F_THERAPIST,252,0,252,252,0,2,126
-Elks Aidmore (Inactive),2/8/2023,FC,Clients,F_CLIENT,14,0,14,14,0,1,14
+Elks Aidmore (Inactive),2/8/2023,FC,Staff,F_THERAPIST,252,0,252,252,0,2.0,126
+Elks Aidmore (Inactive),2/8/2023,FC,Clients,F_CLIENT,14,0,14,14,0,1.0,14
 Elks Aidmore (Inactive),2/8/2023,FC,Medications,F_MEDICATION,"1,768",0,8,8,"1,760",0.5,16
 Elks Aidmore (Inactive),2/8/2023,FC,ICD,F_CLIENT,311,0,2,2,309,0.5,4
 Elks Aidmore (Inactive),2/8/2023,FC,Case People,F_RELATIONSHIP,567,0,1,1,566,0.5,2
 Elks Aidmore (Inactive),2/8/2023,FC,Professionals to Add…,F_CONTACT,59,0,59,59,0,0.5,118
-CeCe's Hope Center,5/9/2022,GCM,Clients,F_CLIENT,104,0,104,104,0,1,104
-Agape (In Home),12/15/2021,GCM,Clients,F_CLIENT,"1,630",0,"1,630","1,630",0,5,326
-Agape (In Home),12/15/2021,GCM,Medications,F_MEDICATION,"7,440",0,"6,493","6,493",947,2,"3,246.50"
-Agape (In Home),12/15/2021,GCM,ICD,F_CLIENT,"4,516",0,"3,404","3,404","1,112",11,309.5
-Agape (In Home),12/15/2021,GCM,Case People,F_RELATIONSHIP,"4,164",0,"3,019","3,019","1,145",14,215.6
-Agape (Mental Health Support),12/15/2021,GCM,Clients,F_CLIENT,933,2,931,933,0,3,312.3
-Agape (Mental Health Support),12/15/2021,GCM,Medications,F_MEDICATION,"7,440",6513,0,"6,513",927,9,"6,513.00"
-Agape (Mental Health Support),12/15/2021,GCM,ICD,F_CLIENT,"4,516",0,"3,404","3,404","1,112",18,189.1
-Agape (Mental Health Support),12/15/2021,GCM,Case People,F_RELATIONSHIP,"4,164",0,"3,019","3,019","1,145",22,137.2
-Agape (Day Treatment),12/15/2021,GCM,Clients,F_CLIENT,"1,665",0,"1,665","1,665",0,4,416.3
-Agape (Day Treatment),12/15/2021,GCM,Medications,F_MEDICATION,"7,440",1829,0,"1,829","5,611",2,"1,829.00"
-Agape (Day Treatment),12/15/2021,GCM,ICD,F_CLIENT,"4,516",0,"2,216","2,216","2,300",8,277
-Agape (Day Treatment),12/15/2021,GCM,Case People,F_RELATIONSHIP,"4,164",0,"1,969","1,969","2,195",11,179
-Casa de Esperanza (Clients),10/5/2021,FC,Clients,F_CLIENT,469,0,469,469,0,12,39.1
-Casa de Esperanza (Clients),10/5/2021,FC,Assign Staff > Clients,F_CLIENT,502,0,254,254,248,14,18.1
-Casa de Esperanza (Clients),10/5/2021,FC,Homes,F_PROVIDER,117,0,117,117,0,1,117
-Casa de Esperanza (Clients),10/5/2021,FC,Placements,F_PLACEMENT,821,0,542,542,279,8,67.8
-Casa de Esperanza (Clients),10/5/2021,FC,Medications,F_MEDICATION,275,0,273,273,2,1,273
+CeCe's Hope Center,5/9/2022,GCM,Clients,F_CLIENT,104,0,104,104,0,1.0,104
+Agape (In Home),12/15/2021,GCM,Clients,F_CLIENT,"1,630",0,"1,630","1,630",0,5.0,326
+Agape (In Home),12/15/2021,GCM,Medications,F_MEDICATION,"7,440",0,"6,493","6,493",947,2.0,"3,246.50"
+Agape (In Home),12/15/2021,GCM,ICD,F_CLIENT,"4,516",0,"3,404","3,404","1,112",11.0,309.5
+Agape (In Home),12/15/2021,GCM,Case People,F_RELATIONSHIP,"4,164",0,"3,019","3,019","1,145",14.0,215.6
+Agape (Mental Health Support),12/15/2021,GCM,Clients,F_CLIENT,933,2,931,933,0,3.0,312.3
+Agape (Mental Health Support),12/15/2021,GCM,Medications,F_MEDICATION,"7,440",6513,0,"6,513",927,9.0,"6,513.00"
+Agape (Mental Health Support),12/15/2021,GCM,ICD,F_CLIENT,"4,516",0,"3,404","3,404","1,112",18.0,189.1
+Agape (Mental Health Support),12/15/2021,GCM,Case People,F_RELATIONSHIP,"4,164",0,"3,019","3,019","1,145",22.0,137.2
+Agape (Day Treatment),12/15/2021,GCM,Clients,F_CLIENT,"1,665",0,"1,665","1,665",0,4.0,416.3
+Agape (Day Treatment),12/15/2021,GCM,Medications,F_MEDICATION,"7,440",1829,0,"1,829","5,611",2.0,"1,829.00"
+Agape (Day Treatment),12/15/2021,GCM,ICD,F_CLIENT,"4,516",0,"2,216","2,216","2,300",8.0,277
+Agape (Day Treatment),12/15/2021,GCM,Case People,F_RELATIONSHIP,"4,164",0,"1,969","1,969","2,195",11.0,179
+Casa de Esperanza (Clients),10/5/2021,FC,Clients,F_CLIENT,469,0,469,469,0,12.0,39.1
+Casa de Esperanza (Clients),10/5/2021,FC,Assign Staff > Clients,F_CLIENT,502,0,254,254,248,14.0,18.1
+Casa de Esperanza (Clients),10/5/2021,FC,Homes,F_PROVIDER,117,0,117,117,0,1.0,117
+Casa de Esperanza (Clients),10/5/2021,FC,Placements,F_PLACEMENT,821,0,542,542,279,8.0,67.8
+Casa de Esperanza (Clients),10/5/2021,FC,Medications,F_MEDICATION,275,0,273,273,2,1.0,273
 Casa de Esperanza (Clients),10/5/2021,FC,Case People,F_RELATIONSHIP,21,0,13,13,8,0.5,26
 Casa de Esperanza (Clients),10/5/2021,FC,Home People,F_HOUSEMEMBER,167,0,81,81,86,0.5,162
-Casa de Esperanza (Clients),10/5/2021,FC,Staff Training,F_THERAPIST_TRAINING,"2,568",0,375,375,"2,193",1,375
+Casa de Esperanza (Clients),10/5/2021,FC,Staff Training,F_THERAPIST_TRAINING,"2,568",0,375,375,"2,193",1.0,375
 Casa de Esperanza (Clients),10/5/2021,FC,Professionals to Add…,F_CONTACT,1,0,1,1,0,0.5,2
-Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Clients,F_CLIENT,89,0,89,89,0,1,89
-Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Assign Staff > Clients,F_CLIENT,502,0,254,254,248,9,28.2
-Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Placements,F_PLACEMENT,821,0,542,542,279,1,542
-Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Medications,F_MEDICATION,275,0,273,273,2,1,273
+Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Clients,F_CLIENT,89,0,89,89,0,1.0,89
+Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Assign Staff > Clients,F_CLIENT,502,0,254,254,248,9.0,28.2
+Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Placements,F_PLACEMENT,821,0,542,542,279,1.0,542
+Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Medications,F_MEDICATION,275,0,273,273,2,1.0,273
 Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Case People,F_RELATIONSHIP,21,0,13,13,8,0.5,26
 Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Home People,F_HOUSEMEMBER,167,0,81,81,86,0.5,162
-Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Staff Training,F_THERAPIST_TRAINING,"2,568",0,375,375,"2,193",2,187.5
-Casa de Esperanza (Families),10/5/2021,FC,Families,F_CLIENT,170,0,170,170,0,4,42.5
-Casa de Esperanza (Families),10/5/2021,FC,Assign Staff > Families,F_CLIENT,502,0,254,254,248,9,28.2
-Casa de Esperanza (Families),10/5/2021,FC,Placements,F_PLACEMENT,821,0,542,542,279,9,60.2
-Casa de Esperanza (Families),10/5/2021,FC,Medications,F_MEDICATION,275,0,273,273,2,1,273
-Casa de Esperanza (Families),10/5/2021,FC,Case People,F_RELATIONSHIP,892,0,466,466,426,1,466
+Casa de Esperanza (Clients: Adoption),10/5/2021,FC,Staff Training,F_THERAPIST_TRAINING,"2,568",0,375,375,"2,193",2.0,187.5
+Casa de Esperanza (Families),10/5/2021,FC,Families,F_CLIENT,170,0,170,170,0,4.0,42.5
+Casa de Esperanza (Families),10/5/2021,FC,Assign Staff > Families,F_CLIENT,502,0,254,254,248,9.0,28.2
+Casa de Esperanza (Families),10/5/2021,FC,Placements,F_PLACEMENT,821,0,542,542,279,9.0,60.2
+Casa de Esperanza (Families),10/5/2021,FC,Medications,F_MEDICATION,275,0,273,273,2,1.0,273
+Casa de Esperanza (Families),10/5/2021,FC,Case People,F_RELATIONSHIP,892,0,466,466,426,1.0,466
 Casa de Esperanza (Families),10/5/2021,FC,Home People,F_HOUSEMEMBER,167,0,81,81,86,0.5,162
-Casa de Esperanza (Families),10/5/2021,FC,Staff Training,F_THERAPIST_TRAINING,"2,568",0,375,375,"2,193",1,375
+Casa de Esperanza (Families),10/5/2021,FC,Staff Training,F_THERAPIST_TRAINING,"2,568",0,375,375,"2,193",1.0,375
 Casa de Esperanza (Families),10/5/2021,FC,Professionals to Add…,F_CONTACT,1,0,1,1,0,0.5,2
-Casa de Esperanza (Families),10/5/2021,GCM,Clients,F_CLIENT,180,1,179,180,0,2,90.5
-Casa de Esperanza (Families),10/5/2021,GCM,Case People,F_RELATIONSHIP,892,0,506,506,386,1,506
-Childplace (Residential),11/15/2021,FC,Clients,F_CLIENT,344,0,344,344,0,9,38.2
+Casa de Esperanza (Families),10/5/2021,GCM,Clients,F_CLIENT,180,1,179,180,0,2.0,90.5
+Casa de Esperanza (Families),10/5/2021,GCM,Case People,F_RELATIONSHIP,892,0,506,506,386,1.0,506
+Childplace (Residential),11/15/2021,FC,Clients,F_CLIENT,344,0,344,344,0,9.0,38.2
 Childplace (Residential),11/15/2021,FC,Homes,F_PROVIDER,8,0,8,8,0,0.5,16
-Childplace (Residential),11/15/2021,FC,Placements,F_PLACEMENT,480,0,301,301,179,5,60.2
-Childplace (Residential),11/15/2021,FC,Medications,F_MEDICATION,"1,602",0,"1,600","1,600",2,3,533.3
-Childplace (Residential),11/15/2021,FC,Goals,F_GOAL,"3,208",0,"2,749","2,749",459,4,687.3
-Childplace (Residential),11/15/2021,FC,ICD,F_CLIENT,281,0,280,280,1,7,40
-Childplace (Residential),11/15/2021,FC,Case People,F_RELATIONSHIP,647,0,490,490,157,1,490
+Childplace (Residential),11/15/2021,FC,Placements,F_PLACEMENT,480,0,301,301,179,5.0,60.2
+Childplace (Residential),11/15/2021,FC,Medications,F_MEDICATION,"1,602",0,"1,600","1,600",2,3.0,533.3
+Childplace (Residential),11/15/2021,FC,Goals,F_GOAL,"3,208",0,"2,749","2,749",459,4.0,687.3
+Childplace (Residential),11/15/2021,FC,ICD,F_CLIENT,281,0,280,280,1,7.0,40
+Childplace (Residential),11/15/2021,FC,Case People,F_RELATIONSHIP,647,0,490,490,157,1.0,490
 Childplace (Residential),11/15/2021,FC,Home People,F_HOUSEMEMBER,34,0,0,0,34,0.5,0
-Childplace (Residential),11/15/2021,FC,Staff Training,F_THERAPIST_TRAINING,"16,013",0,"15,354","15,354",659,28,548.4
-Childplace (Foster Care),11/15/2021,FC,Clients,F_CLIENT,151,0,151,151,0,4,37.8
-Childplace (Foster Care),11/15/2021,FC,Homes,F_PROVIDER,54,1,53,54,0,1,54
-Childplace (Foster Care),11/15/2021,FC,Placements,F_PLACEMENT,480,0,151,151,329,2,75.5
-Childplace (Foster Care),11/15/2021,FC,Medications,F_MEDICATION,"1,602",0,66,66,"1,536",1,66
-Childplace (Foster Care),11/15/2021,FC,Goals,F_GOAL,"3,208",0,567,567,"2,641",1,567
-Childplace (Foster Care),11/15/2021,FC,ICD,F_CLIENT,281,0,9,9,272,1,9
-Childplace (Foster Care),11/15/2021,FC,Case People,F_RELATIONSHIP,647,0,182,182,465,1,182
-Childplace (Foster Care),11/15/2021,FC,Home People,F_HOUSEMEMBER,34,0,19,19,15,1,19
-Childplace (Foster Care),11/15/2021,FC,Staff Training,F_THERAPIST_TRAINING,"16,013",0,527,527,"15,486",3,175.7
-Childrens Guild (TFC),10/5/2021,FC,Clients,F_CLIENT,"2,628",0,"2,628","2,628",0,19,138.3
-Childrens Guild (TFC),10/5/2021,FC,Homes,F_PROVIDER,373,0,373,373,0,2,186.5
-Childrens Guild (TFC),10/5/2021,FC,Placements,F_PLACEMENT,"1,032",0,780,780,252,14,55.7
-Childrens Guild (TFC),10/5/2021,FC,Medications,F_MEDICATION,909,0,898,898,11,4,224.5
+Childplace (Residential),11/15/2021,FC,Staff Training,F_THERAPIST_TRAINING,"16,013",0,"15,354","15,354",659,28.0,548.4
+Childplace (Foster Care),11/15/2021,FC,Clients,F_CLIENT,151,0,151,151,0,4.0,37.8
+Childplace (Foster Care),11/15/2021,FC,Homes,F_PROVIDER,54,1,53,54,0,1.0,54
+Childplace (Foster Care),11/15/2021,FC,Placements,F_PLACEMENT,480,0,151,151,329,2.0,75.5
+Childplace (Foster Care),11/15/2021,FC,Medications,F_MEDICATION,"1,602",0,66,66,"1,536",1.0,66
+Childplace (Foster Care),11/15/2021,FC,Goals,F_GOAL,"3,208",0,567,567,"2,641",1.0,567
+Childplace (Foster Care),11/15/2021,FC,ICD,F_CLIENT,281,0,9,9,272,1.0,9
+Childplace (Foster Care),11/15/2021,FC,Case People,F_RELATIONSHIP,647,0,182,182,465,1.0,182
+Childplace (Foster Care),11/15/2021,FC,Home People,F_HOUSEMEMBER,34,0,19,19,15,1.0,19
+Childplace (Foster Care),11/15/2021,FC,Staff Training,F_THERAPIST_TRAINING,"16,013",0,527,527,"15,486",3.0,175.7
+Childrens Guild (TFC),10/5/2021,FC,Clients,F_CLIENT,"2,628",0,"2,628","2,628",0,19.0,138.3
+Childrens Guild (TFC),10/5/2021,FC,Homes,F_PROVIDER,373,0,373,373,0,2.0,186.5
+Childrens Guild (TFC),10/5/2021,FC,Placements,F_PLACEMENT,"1,032",0,780,780,252,14.0,55.7
+Childrens Guild (TFC),10/5/2021,FC,Medications,F_MEDICATION,909,0,898,898,11,4.0,224.5
 Childrens Guild (TFC),10/5/2021,FC,Goals,F_GOAL,28,0,22,22,6,0.5,44
-Childrens Guild (TFC),10/5/2021,FC,ICD,F_CLIENT,440,0,433,433,7,14,30.9
-Childrens Guild (TFC),10/5/2021,FC,Case People,F_RELATIONSHIP,468,0,462,462,6,3,154
-Childrens Guild (TFC),10/5/2021,FC,Home People,F_HOUSEMEMBER,407,0,251,251,156,1,251
-Childrens Guild (TFC),10/5/2021,FC,Professionals to Add…,F_CONTACT,94,0,94,94,0,1,94
-Childrens Guild (TGH),10/5/2021,FC,Clients,F_CLIENT,665,0,665,665,0,7,95
+Childrens Guild (TFC),10/5/2021,FC,ICD,F_CLIENT,440,0,433,433,7,14.0,30.9
+Childrens Guild (TFC),10/5/2021,FC,Case People,F_RELATIONSHIP,468,0,462,462,6,3.0,154
+Childrens Guild (TFC),10/5/2021,FC,Home People,F_HOUSEMEMBER,407,0,251,251,156,1.0,251
+Childrens Guild (TFC),10/5/2021,FC,Professionals to Add…,F_CONTACT,94,0,94,94,0,1.0,94
+Childrens Guild (TGH),10/5/2021,FC,Clients,F_CLIENT,665,0,665,665,0,7.0,95
 Childrens Guild (TGH),10/5/2021,FC,Homes,F_PROVIDER,3,0,3,3,0,0.5,6
-Childrens Guild (TGH),10/5/2021,FC,Placements,F_PLACEMENT,"1,032",0,780,780,252,20,39
-Childrens Guild (TGH),10/5/2021,FC,Medications,F_MEDICATION,909,0,898,898,11,5,179.6
+Childrens Guild (TGH),10/5/2021,FC,Placements,F_PLACEMENT,"1,032",0,780,780,252,20.0,39
+Childrens Guild (TGH),10/5/2021,FC,Medications,F_MEDICATION,909,0,898,898,11,5.0,179.6
 Childrens Guild (TGH),10/5/2021,FC,Goals,F_GOAL,28,0,22,22,6,0.5,44
-Childrens Guild (TGH),10/5/2021,FC,ICD,F_CLIENT,440,0,433,433,7,20,21.7
-Childrens Guild (TGH),10/5/2021,FC,Case People,F_RELATIONSHIP,468,0,462,462,6,2,231
+Childrens Guild (TGH),10/5/2021,FC,ICD,F_CLIENT,440,0,433,433,7,20.0,21.7
+Childrens Guild (TGH),10/5/2021,FC,Case People,F_RELATIONSHIP,468,0,462,462,6,2.0,231
 Childrens Guild (TGH),10/5/2021,FC,Home People,F_HOUSEMEMBER,407,0,251,251,156,0.5,502
 Childrens Guild (TGH),10/5/2021,FC,Professionals to Add…,F_CONTACT,94,0,94,94,0,0.5,188
-Childrens Homes of Cleveland City,11/10/2021,FC,Clients,F_CLIENT,197,0,197,197,0,14,14.1
+Childrens Homes of Cleveland City,11/10/2021,FC,Clients,F_CLIENT,197,0,197,197,0,14.0,14.1
 Childrens Homes of Cleveland City,11/10/2021,FC,Homes,F_PROVIDER,3,0,3,3,0,0.5,6
-Childrens Homes of Cleveland City,11/10/2021,FC,Medications,F_MEDICATION,350,0,344,344,6,3,114.7
-Childrens Homes of Cleveland City,11/10/2021,FC,Staff Training,F_THERAPIST_TRAINING,"2,432",0,"2,381","2,381",51,7,340.1
+Childrens Homes of Cleveland City,11/10/2021,FC,Medications,F_MEDICATION,350,0,344,344,6,3.0,114.7
+Childrens Homes of Cleveland City,11/10/2021,FC,Staff Training,F_THERAPIST_TRAINING,"2,432",0,"2,381","2,381",51,7.0,340.1
 Childrens Homes of Cleveland City,11/10/2021,FC,Professionals to Add…,F_CONTACT,40,0,40,40,0,0.5,80
-Childrens Homes of Cleveland City,11/10/2021,GCM,Clients,F_CLIENT,805,4,801,805,0,4,204.3
+Childrens Homes of Cleveland City,11/10/2021,GCM,Clients,F_CLIENT,805,4,801,805,0,4.0,204.3
 Childrens Homes of Cleveland City,11/10/2021,GCM,Medications,F_MEDICATION,350,0,201,201,149,0.5,402
-Connections IFS,9/30/2021,FC,Clients,F_CLIENT,"2,052",1,"2,051","2,052",0,90,23.8
+Connections IFS,9/30/2021,FC,Clients,F_CLIENT,"2,052",1,"2,051","2,052",0,90.0,23.8
 Connections IFS,9/30/2021,FC,Homes,F_PROVIDER,3,0,3,3,0,0.5,6
-Connections IFS,9/30/2021,FC,Placements,F_PLACEMENT,"1,974",0,"1,961","1,961",13,65,30.2
-Connections IFS,9/30/2021,FC,Medications,F_MEDICATION,"2,508",0,"2,498","2,498",10,10,249.8
-Connections IFS,9/30/2021,FC,Goals,F_GOAL,47,0,46,46,1,1,46
-Connections IFS,9/30/2021,FC,ICD,F_CLIENT,324,0,320,320,4,19,16.8
-Connections IFS,9/30/2021,FC,Case People,F_RELATIONSHIP,756,0,744,744,12,2,372
-Connections IFS,9/30/2021,FC,Staff Training,F_THERAPIST_TRAINING,"9,170",0,"8,836","8,836",334,15,589.1
-Eckerd Connects,2/7/2022,FC,Clients,F_CLIENT,"1,238",7,"1,231","1,238",0,28,51
-Eckerd Connects,2/7/2022,FC,Assign Staff > Clients,F_CLIENT,415,0,2,2,413,1,2
-Eckerd Connects,2/7/2022,FC,Homes,F_PROVIDER,222,0,222,222,0,1,222
-Eckerd Connects,2/7/2022,FC,Assign Staff > Homes,F_PROVIDER,415,0,267,267,148,3,89
-Eckerd Connects,2/7/2022,FC,Placements,F_PLACEMENT,"2,122",0,"1,553","1,553",569,20,77.7
-Eckerd Connects,2/7/2022,FC,Medications,F_MEDICATION,794,0,729,729,65,3,243
+Connections IFS,9/30/2021,FC,Placements,F_PLACEMENT,"1,974",0,"1,961","1,961",13,65.0,30.2
+Connections IFS,9/30/2021,FC,Medications,F_MEDICATION,"2,508",0,"2,498","2,498",10,10.0,249.8
+Connections IFS,9/30/2021,FC,Goals,F_GOAL,47,0,46,46,1,1.0,46
+Connections IFS,9/30/2021,FC,ICD,F_CLIENT,324,0,320,320,4,19.0,16.8
+Connections IFS,9/30/2021,FC,Case People,F_RELATIONSHIP,756,0,744,744,12,2.0,372
+Connections IFS,9/30/2021,FC,Staff Training,F_THERAPIST_TRAINING,"9,170",0,"8,836","8,836",334,15.0,589.1
+Eckerd Connects,2/7/2022,FC,Clients,F_CLIENT,"1,238",7,"1,231","1,238",0,28.0,51
+Eckerd Connects,2/7/2022,FC,Assign Staff > Clients,F_CLIENT,415,0,2,2,413,1.0,2
+Eckerd Connects,2/7/2022,FC,Homes,F_PROVIDER,222,0,222,222,0,1.0,222
+Eckerd Connects,2/7/2022,FC,Assign Staff > Homes,F_PROVIDER,415,0,267,267,148,3.0,89
+Eckerd Connects,2/7/2022,FC,Placements,F_PLACEMENT,"2,122",0,"1,553","1,553",569,20.0,77.7
+Eckerd Connects,2/7/2022,FC,Medications,F_MEDICATION,794,0,729,729,65,3.0,243
 Eckerd Connects,2/7/2022,FC,Case People,F_RELATIONSHIP,228,0,20,20,208,0.5,40
 Eckerd Connects,2/7/2022,FC,Home People,F_HOUSEMEMBER,337,0,62,62,275,0.5,124
-Florence Crittenton,11/1/2021,FC,Clients,F_CLIENT,263,0,263,263,0,48,5.5
-Florence Crittenton,11/1/2021,FC,Assign Staff > Clients,F_CLIENT,39,0,35,35,4,11,3.2
-Florence Crittenton,11/1/2021,FC,Placements,F_PLACEMENT,268,0,261,261,7,13,20.1
-Florence Crittenton,11/1/2021,FC,Case People,F_RELATIONSHIP,138,0,132,132,6,1,132
-Free Will BCH (Household),1/4/2022,FC,Clients,F_CLIENT,334,3,331,334,0,21,18.8
-Free Will BCH (Household),1/4/2022,FC,Homes,F_PROVIDER,84,0,84,84,0,9,9.3
-Free Will BCH (Household),1/4/2022,FC,Placements,F_PLACEMENT,"1,761",0,"1,015","1,015",746,53,19.2
-Free Will BCH (Household),1/4/2022,FC,Medications,F_MEDICATION,"2,879",0,172,172,"2,707",1,172
-Free Will BCH (Household),1/4/2022,FC,Goals,F_GOAL,639,0,43,43,596,3,14.3
-Free Will BCH (Household),1/4/2022,FC,ICD,F_CLIENT,11,0,1,1,10,3,0.3
-Free Will BCH (Household),1/4/2022,FC,Case People,F_RELATIONSHIP,"2,217",0,543,543,"1,674",3,181
-Free Will BCH (Household),1/4/2022,FC,Home People,F_HOUSEMEMBER,100,0,79,79,21,6,13.2
-Free Will BCH (Household),1/4/2022,FC,Staff Training,F_THERAPIST_TRAINING,"2,177",0,"1,039","1,039","1,138",8,129.9
-Free Will BCH (Household),1/4/2022,FC,Professionals to Add…,F_CONTACT,638,0,638,638,0,5,127.6
-Free Will BCH (Other Residence),1/4/2022,FC,Clients,F_CLIENT,481,4,477,481,0,36,17.3
-Free Will BCH (Other Residence),1/4/2022,FC,Homes,F_PROVIDER,6,0,6,6,0,1,6
-Free Will BCH (Other Residence),1/4/2022,FC,Placements,F_PLACEMENT,"1,761",0,700,700,"1,061",28,25
-Free Will BCH (Other Residence),1/4/2022,FC,Medications,F_MEDICATION,"2,879",0,"2,838","2,838",41,16,177.4
-Free Will BCH (Other Residence),1/4/2022,FC,Goals,F_GOAL,639,0,636,636,3,17,37.4
-Free Will BCH (Other Residence),1/4/2022,FC,ICD,F_CLIENT,11,0,8,8,3,18,0.4
-Free Will BCH (Other Residence),1/4/2022,FC,Case People,F_RELATIONSHIP,"2,217",0,"1,749","1,749",468,24,72.9
-Free Will BCH (Other Residence),1/4/2022,FC,Professionals to Add…,F_CONTACT,638,0,638,638,0,25,25.5
-Generations,10/4/2021,FC,Clients,F_CLIENT,754,0,754,754,0,20,37.7
+Florence Crittenton,11/1/2021,FC,Clients,F_CLIENT,263,0,263,263,0,48.0,5.5
+Florence Crittenton,11/1/2021,FC,Assign Staff > Clients,F_CLIENT,39,0,35,35,4,11.0,3.2
+Florence Crittenton,11/1/2021,FC,Placements,F_PLACEMENT,268,0,261,261,7,13.0,20.1
+Florence Crittenton,11/1/2021,FC,Case People,F_RELATIONSHIP,138,0,132,132,6,1.0,132
+Free Will BCH (Household),1/4/2022,FC,Clients,F_CLIENT,334,3,331,334,0,21.0,18.8
+Free Will BCH (Household),1/4/2022,FC,Homes,F_PROVIDER,84,0,84,84,0,9.0,9.3
+Free Will BCH (Household),1/4/2022,FC,Placements,F_PLACEMENT,"1,761",0,"1,015","1,015",746,53.0,19.2
+Free Will BCH (Household),1/4/2022,FC,Medications,F_MEDICATION,"2,879",0,172,172,"2,707",1.0,172
+Free Will BCH (Household),1/4/2022,FC,Goals,F_GOAL,639,0,43,43,596,3.0,14.3
+Free Will BCH (Household),1/4/2022,FC,ICD,F_CLIENT,11,0,1,1,10,3.0,0.3
+Free Will BCH (Household),1/4/2022,FC,Case People,F_RELATIONSHIP,"2,217",0,543,543,"1,674",3.0,181
+Free Will BCH (Household),1/4/2022,FC,Home People,F_HOUSEMEMBER,100,0,79,79,21,6.0,13.2
+Free Will BCH (Household),1/4/2022,FC,Staff Training,F_THERAPIST_TRAINING,"2,177",0,"1,039","1,039","1,138",8.0,129.9
+Free Will BCH (Household),1/4/2022,FC,Professionals to Add…,F_CONTACT,638,0,638,638,0,5.0,127.6
+Free Will BCH (Other Residence),1/4/2022,FC,Clients,F_CLIENT,481,4,477,481,0,36.0,17.3
+Free Will BCH (Other Residence),1/4/2022,FC,Homes,F_PROVIDER,6,0,6,6,0,1.0,6
+Free Will BCH (Other Residence),1/4/2022,FC,Placements,F_PLACEMENT,"1,761",0,700,700,"1,061",28.0,25
+Free Will BCH (Other Residence),1/4/2022,FC,Medications,F_MEDICATION,"2,879",0,"2,838","2,838",41,16.0,177.4
+Free Will BCH (Other Residence),1/4/2022,FC,Goals,F_GOAL,639,0,636,636,3,17.0,37.4
+Free Will BCH (Other Residence),1/4/2022,FC,ICD,F_CLIENT,11,0,8,8,3,18.0,0.4
+Free Will BCH (Other Residence),1/4/2022,FC,Case People,F_RELATIONSHIP,"2,217",0,"1,749","1,749",468,24.0,72.9
+Free Will BCH (Other Residence),1/4/2022,FC,Professionals to Add…,F_CONTACT,638,0,638,638,0,25.0,25.5
+Generations,10/4/2021,FC,Clients,F_CLIENT,754,0,754,754,0,20.0,37.7
 Generations,10/4/2021,FC,Homes,F_PROVIDER,17,0,17,17,0,0.5,34
-Generations,10/4/2021,FC,Staff Training,F_THERAPIST_TRAINING,"12,224",0,"12,069","12,069",155,32,377.2
-High Sky Foster Care,10/9/2021,FC,Clients,F_CLIENT,"1,493",0,"1,493","1,493",0,40,37.3
-High Sky Foster Care,10/9/2021,FC,Placements,F_PLACEMENT,"3,712",0,"3,145","3,145",567,53,59.3
-Hope Center,9/30/2021,FC,Clients,F_CLIENT,916,4,912,916,0,25,40.5
+Generations,10/4/2021,FC,Staff Training,F_THERAPIST_TRAINING,"12,224",0,"12,069","12,069",155,32.0,377.2
+High Sky Foster Care,10/9/2021,FC,Clients,F_CLIENT,"1,493",0,"1,493","1,493",0,40.0,37.3
+High Sky Foster Care,10/9/2021,FC,Placements,F_PLACEMENT,"3,712",0,"3,145","3,145",567,53.0,59.3
+Hope Center,9/30/2021,FC,Clients,F_CLIENT,916,4,912,916,0,25.0,40.5
 Hope Center,9/30/2021,FC,Homes,F_PROVIDER,13,0,13,13,0,0.5,26
-Hope Center,9/30/2021,FC,Placements,F_PLACEMENT,892,0,655,655,237,12,54.6
+Hope Center,9/30/2021,FC,Placements,F_PLACEMENT,892,0,655,655,237,12.0,54.6
 Hope Center,9/30/2021,FC,Medications,F_MEDICATION,6,0,3,3,3,0.5,6
-Hope Center,9/30/2021,FC,Goals,F_GOAL,162,0,132,132,30,1,132
-Hope Center,9/30/2021,FC,ICD,F_CLIENT,68,0,49,49,19,3,16.3
-Hope Center,9/30/2021,FC,Case People,F_RELATIONSHIP,68,0,56,56,12,1,56
-Hope Center,9/30/2021,FC,Staff Training,F_THERAPIST_TRAINING,486,0,79,79,407,1,79
+Hope Center,9/30/2021,FC,Goals,F_GOAL,162,0,132,132,30,1.0,132
+Hope Center,9/30/2021,FC,ICD,F_CLIENT,68,0,49,49,19,3.0,16.3
+Hope Center,9/30/2021,FC,Case People,F_RELATIONSHIP,68,0,56,56,12,1.0,56
+Hope Center,9/30/2021,FC,Staff Training,F_THERAPIST_TRAINING,486,0,79,79,407,1.0,79
 Hope Center,9/30/2021,FC,Professionals to Add…,F_CONTACT,16,0,16,16,0,0.5,32
-Hope Center (Client),9/30/2021,GCM,Clients,F_CLIENT,268,2,266,268,0,1,268
+Hope Center (Client),9/30/2021,GCM,Clients,F_CLIENT,268,2,266,268,0,1.0,268
 Hope Center (Client),9/30/2021,GCM,Goals,F_GOAL,162,0,131,131,31,0.5,262
 Hope Center (Client),9/30/2021,GCM,ICD,F_CLIENT,68,0,47,47,21,0.5,94
 Hope Center (Client),9/30/2021,GCM,Case People,F_RELATIONSHIP,68,0,29,29,39,0.5,58
-Hope Center (Family),9/30/2021,GCM,Clients,F_CLIENT,"1,570",0,"1,570","1,570",0,5,314
+Hope Center (Family),9/30/2021,GCM,Clients,F_CLIENT,"1,570",0,"1,570","1,570",0,5.0,314
 Hope Center (Family),9/30/2021,GCM,Goals,F_GOAL,162,0,131,131,31,0.5,262
 Hope Center (Family),9/30/2021,GCM,ICD,F_CLIENT,68,0,47,47,21,0.5,94
-Hope Center (Family),9/30/2021,GCM,Case People,F_RELATIONSHIP,"3,482",0,"3,422","3,422",60,2,"1,711.00"
-Journey Home,11/5/2021,FC,Clients,F_CLIENT,388,8,380,388,0,9,50.2
-Journey Home,11/5/2021,FC,Assign Staff > Clients,F_CLIENT,171,0,166,166,5,5,33.2
-Journey Home,11/5/2021,FC,Homes,F_PROVIDER,85,1,84,85,0,1,85
-Journey Home,11/5/2021,FC,Placements,F_PLACEMENT,452,0,382,382,70,7,54.6
-Journey Home,11/5/2021,FC,Medications,F_MEDICATION,182,0,178,178,4,2,89
-Journey Home,11/5/2021,FC,Case People,F_RELATIONSHIP,241,0,237,237,4,2,118.5
-Journey Home,11/5/2021,FC,Home People,F_HOUSEMEMBER,174,0,71,71,103,1,71
+Hope Center (Family),9/30/2021,GCM,Case People,F_RELATIONSHIP,"3,482",0,"3,422","3,422",60,2.0,"1,711.00"
+Journey Home,11/5/2021,FC,Clients,F_CLIENT,388,8,380,388,0,9.0,50.2
+Journey Home,11/5/2021,FC,Assign Staff > Clients,F_CLIENT,171,0,166,166,5,5.0,33.2
+Journey Home,11/5/2021,FC,Homes,F_PROVIDER,85,1,84,85,0,1.0,85
+Journey Home,11/5/2021,FC,Placements,F_PLACEMENT,452,0,382,382,70,7.0,54.6
+Journey Home,11/5/2021,FC,Medications,F_MEDICATION,182,0,178,178,4,2.0,89
+Journey Home,11/5/2021,FC,Case People,F_RELATIONSHIP,241,0,237,237,4,2.0,118.5
+Journey Home,11/5/2021,FC,Home People,F_HOUSEMEMBER,174,0,71,71,103,1.0,71
 Journey Home,11/5/2021,FC,Staff Training,F_THERAPIST_TRAINING,18,0,1,1,17,0.5,2
-Journey Home,11/5/2021,FC,Professionals to Add…,F_CONTACT,152,0,152,152,0,2,76
-One More Child (HFY),10/6/2021,GCM,Clients,F_CLIENT,170,0,170,170,0,1,170
-One More Child (ERC),10/6/2021,GCM,Clients,F_CLIENT,63,3,60,63,0,1,63
-One More Child (ATMT),10/6/2021,GCM,Clients,F_CLIENT,480,2,478,480,0,1,480
+Journey Home,11/5/2021,FC,Professionals to Add…,F_CONTACT,152,0,152,152,0,2.0,76
+One More Child (HFY),10/6/2021,GCM,Clients,F_CLIENT,170,0,170,170,0,1.0,170
+One More Child (ERC),10/6/2021,GCM,Clients,F_CLIENT,63,3,60,63,0,1.0,63
+One More Child (ATMT),10/6/2021,GCM,Clients,F_CLIENT,480,2,478,480,0,1.0,480
 One More Child (ATMT),10/6/2021,GCM,Medications,F_MEDICATION,97,0,36,36,61,0.5,72
-One More Child (ATMT),10/6/2021,GCM,Case People,F_RELATIONSHIP,394,0,266,266,128,1,266
-One More Child (FS),10/6/2021,GCM,Families,F_CLIENT,678,9,669,678,0,3,232
-One More Child (FS),10/6/2021,GCM,Case People,F_RELATIONSHIP,"4,757",0,"1,038","1,038","3,719",1,"1,038.00"
-PDA,1/3/2022,FC,Clients,F_CLIENT,475,29,426,455,20,15,57.4
-PDA,1/3/2022,FC,Medications,F_MEDICATION,29,0,24,24,5,1,24
-PDA,1/3/2022,FC,Goals,F_GOAL,707,0,697,697,10,1,697
-PDA,1/3/2022,FC,Case People,F_RELATIONSHIP,144,0,135,135,9,1,135
-Pendleton Place (SC),2/10/2022,FC,Clients,F_CLIENT,"1,541",3,"1,538","1,541",0,14,112.9
-Pendleton Place (SC),2/10/2022,FC,Homes,F_PROVIDER,4,0,4,4,0,1,4
-Pendleton Place (SC),2/10/2022,FC,Placements,F_PLACEMENT,"4,215",0,278,278,"3,937",5,55.6
-Pendleton Place (SC),2/10/2022,FC,Medications,F_MEDICATION,807,0,800,800,7,3,266.7
-Pendleton Place (SC),2/10/2022,FC,Goals,F_GOAL,481,0,166,166,315,1,166
-Pendleton Place (SC),2/10/2022,FC,Case People,F_RELATIONSHIP,801,0,346,346,455,1,346
-Pendleton Place (CBS > Clients),2/10/2022,FC,Clients,F_CLIENT,"4,842",0,"4,842","4,842",0,80,60.5
-Pendleton Place (CBS > Clients),2/10/2022,FC,Medications,F_MEDICATION,807,0,314,314,493,1,314
-Pendleton Place (CBS > Clients),2/10/2022,FC,Goals,F_GOAL,481,0,421,421,60,1,421
-Pendleton Place (CBS > Clients),2/10/2022,FC,Case People,F_RELATIONSHIP,801,0,535,535,266,1,535
-Pendleton Place (CBS > Families),2/10/2022,FC,Families,F_CLIENT,"1,336",0,"1,336","1,336",0,19,70.3
-Pendleton Place (CBS > Families),2/10/2022,FC,Medications,F_MEDICATION,807,0,314,314,493,1,314
-Pendleton Place (CBS > Families),2/10/2022,FC,Goals,F_GOAL,481,0,429,429,52,1,429
-Pendleton Place (CBS > Families),2/10/2022,FC,Case People,F_RELATIONSHIP,"4,005",0,"3,727","3,727",278,4,931.8
-Redwood (Foster Home),11/18/2021,FC,Clients,F_CLIENT,140,0,140,140,0,2,70
-Redwood (Foster Home),11/18/2021,FC,Assign Staff > Clients,F_CLIENT,150,0,38,38,112,1,38
-Redwood (Foster Home),11/18/2021,FC,Homes,F_PROVIDER,64,0,64,64,0,1,64
-Redwood (Foster Home),11/18/2021,FC,Placements,F_PLACEMENT,103,0,91,91,12,3,30.3
+One More Child (ATMT),10/6/2021,GCM,Case People,F_RELATIONSHIP,394,0,266,266,128,1.0,266
+One More Child (FS),10/6/2021,GCM,Families,F_CLIENT,678,9,669,678,0,3.0,232
+One More Child (FS),10/6/2021,GCM,Case People,F_RELATIONSHIP,"4,757",0,"1,038","1,038","3,719",1.0,"1,038.00"
+PDA,1/3/2022,FC,Clients,F_CLIENT,475,29,426,455,20,15.0,57.4
+PDA,1/3/2022,FC,Medications,F_MEDICATION,29,0,24,24,5,1.0,24
+PDA,1/3/2022,FC,Goals,F_GOAL,707,0,697,697,10,1.0,697
+PDA,1/3/2022,FC,Case People,F_RELATIONSHIP,144,0,135,135,9,1.0,135
+Pendleton Place (SC),2/10/2022,FC,Clients,F_CLIENT,"1,541",3,"1,538","1,541",0,14.0,112.9
+Pendleton Place (SC),2/10/2022,FC,Homes,F_PROVIDER,4,0,4,4,0,1.0,4
+Pendleton Place (SC),2/10/2022,FC,Placements,F_PLACEMENT,"4,215",0,278,278,"3,937",5.0,55.6
+Pendleton Place (SC),2/10/2022,FC,Medications,F_MEDICATION,807,0,800,800,7,3.0,266.7
+Pendleton Place (SC),2/10/2022,FC,Goals,F_GOAL,481,0,166,166,315,1.0,166
+Pendleton Place (SC),2/10/2022,FC,Case People,F_RELATIONSHIP,801,0,346,346,455,1.0,346
+Pendleton Place (CBS > Clients),2/10/2022,FC,Clients,F_CLIENT,"4,842",0,"4,842","4,842",0,80.0,60.5
+Pendleton Place (CBS > Clients),2/10/2022,FC,Medications,F_MEDICATION,807,0,314,314,493,1.0,314
+Pendleton Place (CBS > Clients),2/10/2022,FC,Goals,F_GOAL,481,0,421,421,60,1.0,421
+Pendleton Place (CBS > Clients),2/10/2022,FC,Case People,F_RELATIONSHIP,801,0,535,535,266,1.0,535
+Pendleton Place (CBS > Families),2/10/2022,FC,Families,F_CLIENT,"1,336",0,"1,336","1,336",0,19.0,70.3
+Pendleton Place (CBS > Families),2/10/2022,FC,Medications,F_MEDICATION,807,0,314,314,493,1.0,314
+Pendleton Place (CBS > Families),2/10/2022,FC,Goals,F_GOAL,481,0,429,429,52,1.0,429
+Pendleton Place (CBS > Families),2/10/2022,FC,Case People,F_RELATIONSHIP,"4,005",0,"3,727","3,727",278,4.0,931.8
+Redwood (Foster Home),11/18/2021,FC,Clients,F_CLIENT,140,0,140,140,0,2.0,70
+Redwood (Foster Home),11/18/2021,FC,Assign Staff > Clients,F_CLIENT,150,0,38,38,112,1.0,38
+Redwood (Foster Home),11/18/2021,FC,Homes,F_PROVIDER,64,0,64,64,0,1.0,64
+Redwood (Foster Home),11/18/2021,FC,Placements,F_PLACEMENT,103,0,91,91,12,3.0,30.3
 Redwood (Foster Home),11/18/2021,FC,Case People,F_RELATIONSHIP,76,0,56,56,20,0.5,112
 Redwood (Foster Home),11/18/2021,FC,Home People,F_HOUSEMEMBER,121,0,36,36,85,0.5,72
-Redwood (Foster Home),11/18/2021,FC,Professionals to Add…,F_CONTACT,37,0,37,37,0,1,37
-Redwood (Residential),11/18/2021,FC,Clients,F_CLIENT,58,0,58,58,0,1,58
-Redwood (Residential),11/18/2021,FC,Assign Staff > Clients,F_CLIENT,150,0,38,38,112,1,38
+Redwood (Foster Home),11/18/2021,FC,Professionals to Add…,F_CONTACT,37,0,37,37,0,1.0,37
+Redwood (Residential),11/18/2021,FC,Clients,F_CLIENT,58,0,58,58,0,1.0,58
+Redwood (Residential),11/18/2021,FC,Assign Staff > Clients,F_CLIENT,150,0,38,38,112,1.0,38
 Redwood (Residential),11/18/2021,FC,Homes,F_PROVIDER,4,0,4,4,0,0.5,8
-Redwood (Residential),11/18/2021,FC,Placements,F_PLACEMENT,103,0,91,91,12,1,91
+Redwood (Residential),11/18/2021,FC,Placements,F_PLACEMENT,103,0,91,91,12,1.0,91
 Redwood (Residential),11/18/2021,FC,Case People,F_RELATIONSHIP,76,0,56,56,20,0.5,112
 Redwood (Residential),11/18/2021,FC,Home People,F_HOUSEMEMBER,121,0,36,36,85,0.5,72
-Redwood (Residential),11/18/2021,FC,Professionals to Add…,F_CONTACT,37,0,37,37,0,1,37
-SE Childrens Home,10/28/2021,FC,Clients,F_CLIENT,112,0,112,112,0,3,37.3
+Redwood (Residential),11/18/2021,FC,Professionals to Add…,F_CONTACT,37,0,37,37,0,1.0,37
+SE Childrens Home,10/28/2021,FC,Clients,F_CLIENT,112,0,112,112,0,3.0,37.3
 SE Childrens Home,10/28/2021,FC,Homes,F_PROVIDER,3,0,3,3,0,0.5,6
-SE Childrens Home,10/28/2021,FC,Placements,F_PLACEMENT,112,0,119,119,-7,2,59.5
-SE Childrens Home,10/28/2021,FC,Medications,F_MEDICATION,228,0,224,224,4,1,224
+SE Childrens Home,10/28/2021,FC,Placements,F_PLACEMENT,112,0,119,119,-7,2.0,59.5
+SE Childrens Home,10/28/2021,FC,Medications,F_MEDICATION,228,0,224,224,4,1.0,224
 SE Childrens Home,10/28/2021,FC,Goals,F_GOAL,7,0,5,5,2,0.5,10
-SE Childrens Home,10/28/2021,FC,ICD,F_CLIENT,29,0,29,29,0,2,14.5
-SE Childrens Home,10/28/2021,FC,Case People,F_RELATIONSHIP,25,0,25,25,0,1,25
+SE Childrens Home,10/28/2021,FC,ICD,F_CLIENT,29,0,29,29,0,2.0,14.5
+SE Childrens Home,10/28/2021,FC,Case People,F_RELATIONSHIP,25,0,25,25,0,1.0,25
 SE Childrens Home,10/28/2021,FC,Professionals to Add…,F_CONTACT,9,0,9,9,0,0.5,18
-Whites (Compass Rose Academy),12/30/2021,FC,Clients,F_CLIENT,269,3,266,269,0,4,69.5
-Whites (Compass Rose Academy),12/30/2021,FC,Homes,F_PROVIDER,5,0,5,5,0,1,5
-Whites (Compass Rose Academy),12/30/2021,FC,Placements,F_PLACEMENT,"2,514",0,113,113,"2,401",2,56.5
-Whites (Compass Rose Academy),12/30/2021,FC,Medications,F_MEDICATION,"5,001",0,838,838,"4,163",3,279.3
-Whites (Compass Rose Academy),12/30/2021,FC,Goals,F_GOAL,"7,910",0,761,761,"7,149",2,380.5
-Whites (Compass Rose Academy),12/30/2021,FC,ICD,F_CLIENT,"1,149",0,171,171,978,7,24.4
-Whites (Compass Rose Academy),12/30/2021,FC,Case People,F_RELATIONSHIP,"7,648",0,785,785,"6,863",3,261.7
-Whites (Compass Rose Academy),12/30/2021,FC,Home People,F_HOUSEMEMBER,"1,031",0,2,2,"1,029",1,2
-Whites (Compass Rose Academy),12/30/2021,FC,Professionals to Add…,F_CONTACT,49,0,49,49,0,1,49
-Whites (Foster Care),12/30/2021,FC,Clients,F_CLIENT,"9,497",111,"9,386","9,497",0,67,251.1
-Whites (Foster Care),12/30/2021,FC,Assign Staff > Clients,F_CLIENT,"1,206",0,780,780,426,23,33.9
-Whites (Foster Care),12/30/2021,FC,Homes,F_PROVIDER,622,2,620,622,0,4,157
-Whites (Foster Care),12/30/2021,FC,Placements,F_PLACEMENT,"2,514",0,717,717,"1,797",10,71.7
-Whites (Foster Care),12/30/2021,FC,Medications,F_MEDICATION,"5,001",0,"1,806","1,806","3,195",20,90.3
-Whites (Foster Care),12/30/2021,FC,Goals,F_GOAL,"7,910",0,"3,029","3,029","4,881",6,504.8
-Whites (Foster Care),12/30/2021,FC,ICD,F_CLIENT,"1,149",0,80,80,"1,069",4,20
-Whites (Foster Care),12/30/2021,FC,Case People,F_RELATIONSHIP,"7,648",0,"2,594","2,594","5,054",20,129.7
-Whites (Foster Care),12/30/2021,FC,Home People,F_HOUSEMEMBER,"1,031",0,495,495,536,2,247.5
-Whites (Foster Care),12/30/2021,FC,Professionals to Add…,F_CONTACT,49,0,49,49,0,1,49
-Whites (Family Preservation),12/30/2021,FC,Clients,F_CLIENT,49,0,49,49,0,1,49
-Whites (Family Preservation),12/30/2021,FC,Assign Staff > Clients,F_CLIENT,31,0,17,17,14,1,17
-Whites (Family Preservation),12/30/2021,FC,Goals,F_GOAL,"7,910",0,135,135,"7,775",3,45
-Whites (Family Preservation),12/30/2021,FC,Case People,F_RELATIONSHIP,"7,648",0,183,183,"7,465",3,61
-Whites (Family Preservation),12/30/2021,FC,Professionals to Add…,F_CONTACT,49,0,49,49,0,1,49
-Whites (Residential),12/30/2021,FC,Clients,F_CLIENT,"1,466",9,"1,457","1,466",0,20,81.9
-Whites (Residential),12/30/2021,FC,Assign Staff > Clients,F_CLIENT,103,0,52,52,51,2,26
-Whites (Residential),12/30/2021,FC,Homes,F_PROVIDER,11,0,11,11,0,1,11
-Whites (Residential),12/30/2021,FC,Placements,F_PLACEMENT,"2,514",0,836,836,"1,678",14,59.7
-Whites (Residential),12/30/2021,FC,Medications,F_MEDICATION,"5,001",0,"2,501","2,501","2,500",11,227.4
-Whites (Residential),12/30/2021,FC,Goals,F_GOAL,"7,910",0,"4,127","4,127","3,783",7,589.6
-Whites (Residential),12/30/2021,FC,ICD,F_CLIENT,"1,149",0,925,925,224,26,35.6
-Whites (Residential),12/30/2021,FC,Case People,F_RELATIONSHIP,"7,648",0,"4,112","4,112","3,536",12,342.7
-Whites (Residential),12/30/2021,FC,Home People,F_HOUSEMEMBER,"1,031",0,2,2,"1,029",1,2
-Whites (Residential),12/30/2021,FC,Staff Training,F_THERAPIST_TRAINING,"12,548",0,27,27,"12,521",1,27
-Whites (Residential),12/30/2021,FC,Professionals to Add…,F_CONTACT,49,0,49,49,0,1,49
-Whites (Father Enngagement),12/30/2021,GCM,Clients,F_CLIENT,87,0,87,87,0,1,87
-Whites (Father Enngagement),12/30/2021,GCM,Medications,F_MEDICATION,"5,001",1,0,1,"5,000",1,1
-Whites (Father Enngagement),12/30/2021,GCM,Goals,F_GOAL,"7,910",0,29,29,"7,881",1,29
-Whites (Father Enngagement),12/30/2021,GCM,ICD,F_CLIENT,"1,149",0,2,2,"1,147",1,2
-Whites (Father Enngagement),12/30/2021,GCM,Case People,F_RELATIONSHIP,"7,648",0,124,124,"7,524",2,62
-Whites (Clinical Services),12/30/2021,GCM,Clients,F_CLIENT,714,0,708,708,6,2,354
-Whites (Clinical Services),12/30/2021,GCM,Medications,F_MEDICATION,"5,001","3,328",0,"3,328","1,673",10,"3,328.00"
-Whites (Clinical Services),12/30/2021,GCM,Goals,F_GOAL,"7,910",0,"4,868","4,868","3,042",11,442.5
-Whites (Clinical Services),12/30/2021,GCM,ICD,F_CLIENT,"1,149",0,"1,095","1,095",54,11,99.5
-Whites (Clinical Services),12/30/2021,GCM,Case People,F_RELATIONSHIP,"7,648",0,"4,463","4,463","3,185",8,557.9
+Whites (Compass Rose Academy),12/30/2021,FC,Clients,F_CLIENT,269,3,266,269,0,4.0,69.5
+Whites (Compass Rose Academy),12/30/2021,FC,Homes,F_PROVIDER,5,0,5,5,0,1.0,5
+Whites (Compass Rose Academy),12/30/2021,FC,Placements,F_PLACEMENT,"2,514",0,113,113,"2,401",2.0,56.5
+Whites (Compass Rose Academy),12/30/2021,FC,Medications,F_MEDICATION,"5,001",0,838,838,"4,163",3.0,279.3
+Whites (Compass Rose Academy),12/30/2021,FC,Goals,F_GOAL,"7,910",0,761,761,"7,149",2.0,380.5
+Whites (Compass Rose Academy),12/30/2021,FC,ICD,F_CLIENT,"1,149",0,171,171,978,7.0,24.4
+Whites (Compass Rose Academy),12/30/2021,FC,Case People,F_RELATIONSHIP,"7,648",0,785,785,"6,863",3.0,261.7
+Whites (Compass Rose Academy),12/30/2021,FC,Home People,F_HOUSEMEMBER,"1,031",0,2,2,"1,029",1.0,2
+Whites (Compass Rose Academy),12/30/2021,FC,Professionals to Add…,F_CONTACT,49,0,49,49,0,1.0,49
+Whites (Foster Care),12/30/2021,FC,Clients,F_CLIENT,"9,497",111,"9,386","9,497",0,67.0,251.1
+Whites (Foster Care),12/30/2021,FC,Assign Staff > Clients,F_CLIENT,"1,206",0,780,780,426,23.0,33.9
+Whites (Foster Care),12/30/2021,FC,Homes,F_PROVIDER,622,2,620,622,0,4.0,157
+Whites (Foster Care),12/30/2021,FC,Placements,F_PLACEMENT,"2,514",0,717,717,"1,797",10.0,71.7
+Whites (Foster Care),12/30/2021,FC,Medications,F_MEDICATION,"5,001",0,"1,806","1,806","3,195",20.0,90.3
+Whites (Foster Care),12/30/2021,FC,Goals,F_GOAL,"7,910",0,"3,029","3,029","4,881",6.0,504.8
+Whites (Foster Care),12/30/2021,FC,ICD,F_CLIENT,"1,149",0,80,80,"1,069",4.0,20
+Whites (Foster Care),12/30/2021,FC,Case People,F_RELATIONSHIP,"7,648",0,"2,594","2,594","5,054",20.0,129.7
+Whites (Foster Care),12/30/2021,FC,Home People,F_HOUSEMEMBER,"1,031",0,495,495,536,2.0,247.5
+Whites (Foster Care),12/30/2021,FC,Professionals to Add…,F_CONTACT,49,0,49,49,0,1.0,49
+Whites (Family Preservation),12/30/2021,FC,Clients,F_CLIENT,49,0,49,49,0,1.0,49
+Whites (Family Preservation),12/30/2021,FC,Assign Staff > Clients,F_CLIENT,31,0,17,17,14,1.0,17
+Whites (Family Preservation),12/30/2021,FC,Goals,F_GOAL,"7,910",0,135,135,"7,775",3.0,45
+Whites (Family Preservation),12/30/2021,FC,Case People,F_RELATIONSHIP,"7,648",0,183,183,"7,465",3.0,61
+Whites (Family Preservation),12/30/2021,FC,Professionals to Add…,F_CONTACT,49,0,49,49,0,1.0,49
+Whites (Residential),12/30/2021,FC,Clients,F_CLIENT,"1,466",9,"1,457","1,466",0,20.0,81.9
+Whites (Residential),12/30/2021,FC,Assign Staff > Clients,F_CLIENT,103,0,52,52,51,2.0,26
+Whites (Residential),12/30/2021,FC,Homes,F_PROVIDER,11,0,11,11,0,1.0,11
+Whites (Residential),12/30/2021,FC,Placements,F_PLACEMENT,"2,514",0,836,836,"1,678",14.0,59.7
+Whites (Residential),12/30/2021,FC,Medications,F_MEDICATION,"5,001",0,"2,501","2,501","2,500",11.0,227.4
+Whites (Residential),12/30/2021,FC,Goals,F_GOAL,"7,910",0,"4,127","4,127","3,783",7.0,589.6
+Whites (Residential),12/30/2021,FC,ICD,F_CLIENT,"1,149",0,925,925,224,26.0,35.6
+Whites (Residential),12/30/2021,FC,Case People,F_RELATIONSHIP,"7,648",0,"4,112","4,112","3,536",12.0,342.7
+Whites (Residential),12/30/2021,FC,Home People,F_HOUSEMEMBER,"1,031",0,2,2,"1,029",1.0,2
+Whites (Residential),12/30/2021,FC,Staff Training,F_THERAPIST_TRAINING,"12,548",0,27,27,"12,521",1.0,27
+Whites (Residential),12/30/2021,FC,Professionals to Add…,F_CONTACT,49,0,49,49,0,1.0,49
+Whites (Father Enngagement),12/30/2021,GCM,Clients,F_CLIENT,87,0,87,87,0,1.0,87
+Whites (Father Enngagement),12/30/2021,GCM,Medications,F_MEDICATION,"5,001",1,0,1,"5,000",1.0,1
+Whites (Father Enngagement),12/30/2021,GCM,Goals,F_GOAL,"7,910",0,29,29,"7,881",1.0,29
+Whites (Father Enngagement),12/30/2021,GCM,ICD,F_CLIENT,"1,149",0,2,2,"1,147",1.0,2
+Whites (Father Enngagement),12/30/2021,GCM,Case People,F_RELATIONSHIP,"7,648",0,124,124,"7,524",2.0,62
+Whites (Clinical Services),12/30/2021,GCM,Clients,F_CLIENT,714,0,708,708,6,2.0,354
+Whites (Clinical Services),12/30/2021,GCM,Medications,F_MEDICATION,"5,001","3,328",0,"3,328","1,673",10.0,"3,328.00"
+Whites (Clinical Services),12/30/2021,GCM,Goals,F_GOAL,"7,910",0,"4,868","4,868","3,042",11.0,442.5
+Whites (Clinical Services),12/30/2021,GCM,ICD,F_CLIENT,"1,149",0,"1,095","1,095",54,11.0,99.5
+Whites (Clinical Services),12/30/2021,GCM,Case People,F_RELATIONSHIP,"7,648",0,"4,463","4,463","3,185",8.0,557.9
 Creative Solutions for Kids & Families,2/21/2023,FC,Clients,F_CLIENT,"1,648",3,1645,1648,0,89,18.51685393258427
 Creative Solutions for Kids & Families,2/21/2023,FC,Assign Staff > Clients,F_CLIENT,"2,551",0,1590,1590,961,105,15.142857142857142
 Creative Solutions for Kids & Families,2/21/2023,FC,Homes,F_PROVIDER,135,0,135,135,0,1,135.0
