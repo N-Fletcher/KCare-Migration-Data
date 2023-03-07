@@ -1,29 +1,26 @@
 import csv, os
 import pandas as pd
 
-#Input required. This value is entered with any data found in the file
+#Input required. This value is entered with any data found in the file, and also is used to find the program mapping spreadsheet
 
 agency = 'Live for Life'
 
 
 
-#Option 1 - Put a copy of the program mapping spreadsheet into this script's folder and paste the name of the file here
-input_file = ''
+myDirectory = os.getcwd()
+odysseyDirectory = os.path.abspath(os.path.join(myDirectory, os.pardir))
+mappingsDirectory = odysseyDirectory + '\Program Mapping Spreadsheets'
 
-#Option 2 - Input your computer's directory (should only have to change the User) and the script will find the file for you
-#Comment this code out if you're not utilizing option 2
-myDirectory = 'C:/Users/natfl/KCare/Project Odyssey - Documents/Program Mapping Spreadsheets'
-
-for file in os.listdir(myDirectory):
+for file in os.listdir(mappingsDirectory):
     if file.__contains__(agency.split()[0]) & file.endswith('.xlsx'):
-        input_file = myDirectory + '/' + file
+        input_file = mappingsDirectory + '\\' + file
 
 if input_file == '':
-    extendedDirectory = myDirectory + '/Completed Migrations'
+    extendedDirectory = mappingsDirectory + '/Completed Migrations'
 
     for file in os.listdir(extendedDirectory):
         if file.__contains__(agency.split()[0]) & file.endswith('.xlsx'):
-            input_file = myDirectory + '/Completed Migrations/' + file
+            input_file = mappingsDirectory + '/Completed Migrations/' + file
 
 
 
