@@ -1,9 +1,10 @@
 import csv, os
 import pandas as pd
+from openpyxl import load_workbook
 
 #Input required. This value is entered with any data found in the file, and also is used to find the program mapping spreadsheet
 
-agency = 'Live for Life'
+agency = 'Elks'
 
 
 
@@ -11,6 +12,7 @@ myDirectory = os.getcwd()
 odysseyDirectory = os.path.abspath(os.path.join(myDirectory, os.pardir))
 mappingsDirectory = odysseyDirectory + '\Program Mapping Spreadsheets'
 
+input_file = ''
 for file in os.listdir(mappingsDirectory):
     if file.__contains__(agency.split()[0]) & file.endswith('.xlsx'):
         input_file = mappingsDirectory + '\\' + file
@@ -24,16 +26,15 @@ if input_file == '':
 
 
 
-input = pd.read_excel(input_file, sheet_name='Results - Final Migration')
+input = pd.read_excel(input_file, sheet_name='Results - Final migration')
 input.fillna('', inplace=True)
 
 
 
 
 '''External Functions'''
+
 # Function cleans up 'Took' column so that all values can be read as integers
-
-
 def formatTime(value) -> float:
 
     if value.strip().__contains__("<1 minute"):
@@ -62,13 +63,14 @@ def calculate(updated, new) -> tuple[int, int, int]:
 # Function appends a given row to the main data file
 def appendRow(agency, date, system, category, document, total, new,
               updated, migrated, skipped, time, speed):
+    newRow = [agency, date, system, category, document, total, new,
+                         updated, migrated, skipped, time, speed]
+    
+    wb = load_workbook("Migration Speed Analysis copy.xlsx")
+    ws = wb.worksheets[2]
 
-    # 'a' = append, rather than write which would wipe the file every time
-    # by default, csv tool adds an extra line after every row, so 'newline = ""' disbales this
-    with open("Migration Data.csv", "a", newline="") as all_data:
-        writer = csv.writer(all_data)
-        writer.writerow([agency, date, system, category, document, total, new,
-                         updated, migrated, skipped, time, speed])
+    ws.append(newRow)
+    wb.save("Migration Speed Analysis copy.xlsx")
 
 
 '''Main function'''
