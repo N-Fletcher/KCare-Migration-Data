@@ -5,14 +5,15 @@ from Analysis_Pipeline import importData
 '''This script rewrites the entire All Data data table. Any custom entries and formatting will be wiped. Use with caution'''
 
 
+dataFile = "Migration Speed Analysis.xlsx"
 
 # Clears any remaining data out of the data table - only performed at the start of the program
-wb = load_workbook("Migration Speed Analysis.xlsx")
+wb = load_workbook(dataFile)
 main_table = wb['All Data']
 
 main_table.delete_rows(1, main_table.max_row)
 main_table.delete_cols(1, main_table.max_column)
-wb.save('Migration Speed Analysis.xlsx')
+wb.save(dataFile)
 
 
 # Defines all directories that contain program mapping spreadsheets to be referenced

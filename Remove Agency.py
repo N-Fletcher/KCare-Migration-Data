@@ -4,10 +4,12 @@ from openpyxl import load_workbook
 
 # This is the only input needed, script will find rows associated with this agency and delete them
 agency = 'Gracewood'
-
+#
+#
+dataFile = "Migration Speed Analysis.xlsx"
 
 # Opens analysis file and the main data sheet specifically
-wb = load_workbook("Migration Speed Analysis copy.xlsx")
+wb = load_workbook(dataFile)
 main_table = wb['All Data']
 
 # Amount of rows deleted is tracked for quality assurance
@@ -26,5 +28,5 @@ while index <= main_table.max_row:
     else:
         index += 1
 
-wb.save("Migration Speed Analysis copy.xlsx")
+wb.save(dataFile)
 print('Deleted', deletedCount, 'rows from data file.')
